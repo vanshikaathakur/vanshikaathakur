@@ -1,6 +1,6 @@
 <!-- Typing Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Vanshika+Thakur;Data+Science+Student+%7C+ML+Learner+%7C+Aspiring+Analyst;Turning+Data+into+Insights!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Vanshika+Thakur;Data+Science+Student+%7C+ML+Learner+%7C;Aspiring+Analyst;Exploring+Insights+with+Code+%26+Visuals!" alt="Typing SVG" />
 </h1>
 
 <!-- Hero Image -->
@@ -17,44 +17,50 @@
 
 ### 👩‍💻 About Me
 
-I'm a B.Tech CSE student at JEMTEC Greater Noida, currently in my 3rd year. I have a growing passion for **Data Science, Machine Learning**, and using data to solve real-world problems. I enjoy working with numbers, uncovering patterns, and presenting insights through visualizations.
+I'm a B.Tech CSE student at JEMTEC Greater Noida, currently in my 3rd year. I’m deeply passionate about **Data Science, Analytics**, and using data to power decisions and insights. I specialize in **data cleaning**, **dashboarding**, and **visual storytelling**.
 
 - 🎓 B.Tech (CSE) @ JEMTEC, Greater Noida  
-- 📚 Currently pursuing a Data Science & ML course from Ducat, Noida  
-- 📊 Interested in data analysis, automation, and model building  
-- 🛠 Learning Python, Power BI, SQL, and Excel for professional analytics  
-- ☕ Fun fact: I love analyzing data with coffee and calm music  
+- 📚 Currently pursuing Data Science & ML @ Ducat, Noida  
+- 📊 Skilled in Power BI, Python, Excel, SQL, and Pandas  
+- 🔍 Love exploring hidden trends and patterns in real-world datasets  
 
 ---
 
 ### 💼 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,flask,git,github,linux,vscode,postgresql,mysql,tableau,pandas,numpy,excel,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,vscode,postgresql,mysql,excel,tableau,powerbi,pandas,numpy" />
 </p>
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-#### 📉 Sales Forecasting Dashboard
-Built interactive dashboards for visualizing product-wise sales, trends, and forecasts.
+#### 📱 Mobi Trends Hub
+Cleaned and visualized mobile device data to identify trends in sales, specs, and pricing.
 
-- 🛠 Stack: Excel, Power BI  
-- 📌 Features: Pivot tables, slicers, forecasting charts  
+- 🛠 Tools: Python (Pandas, Matplotlib), Power BI  
+- 📌 Focus: Data cleaning, EDA, price trend visualizations
 
-#### 📊 Company Data Visualization
-Cleaned company datasets and built dashboards using Power BI for better decision-making insights.
+#### 🛒 Retail Analytics Hub
+Designed an Excel dashboard to highlight key retail KPIs using Power Query and advanced formulas.
 
-- 🛠 Stack: Power BI, Power Query  
-- 📌 Focus: Company KPIs, department-wise performance  
+- 🛠 Tools: Excel, Power Query  
+- 📌 Features: Category-wise performance, top product insights, dynamic filters
+
+#### 🏢 Company Insights Dashboard
+Created a business intelligence dashboard in Power BI after transforming raw data into structured form.
+
+- 🛠 Tools: Power BI  
+- 📌 Outcome: KPI summary, departmental breakdown, interactive visuals
 
 ---
 
 ### 📚 Certifications
 
-- ✅ Data Science Internship – CodSoft (Jul–Aug 2024)  
-- ✅ Data Science & Machine Learning Course – Ducat, Noida (Ongoing)
+- 🎓 **Data Analytics and Visualization Job Simulation – Accenture (via Forage)**  
+  *Completed in March 2025. Covered project understanding, data modeling, visualization, and client storytelling.*  
+- 🎓 Data Science & ML Course – Ducat, Noida (Ongoing)
 
 ---
 
@@ -101,9 +107,9 @@ Cleaned company datasets and built dashboards using Power BI for better decision
 
 ### 📬 Contact Me
 
-💌 *Email:* [Add your email if you'd like]  
-📍 *Location:* Greater Noida, India  
-💡 *Let’s connect and create something impactful together!*
+💌 *Email:* [vanshikathakur1724@gmail.com]  
+📍 *Location:* Noida, India  
+💡 *Let’s collaborate and build something impactful together!*
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKz2zs8qj0cS7TG/giphy.gif" width="150">
