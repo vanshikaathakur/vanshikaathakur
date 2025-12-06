@@ -107,7 +107,7 @@ Created a business intelligence dashboard in Power BI after transforming raw dat
 
 ### 📬 Contact Me
 
-💌 *Email:* [vanshikathakur1724@gmail.com]  
+💌 *Email:* [vanshikathakur8888@gmail.com]  
 📍 *Location:* Noida, India  
 🔗 *LinkedIn:* [Vanshika Thakur](https://www.linkedin.com/in/vanshika-thakur-b60128288/) 
 
